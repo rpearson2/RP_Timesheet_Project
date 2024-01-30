@@ -1,43 +1,64 @@
-Initial ,Date,course_id,time(m),Class,Summary
-RP,1/8/2024,ECON-111-02,50,Y,Class - went over chapter 1 of economics textbook
-RP,1/8/2024,MATH-118-01,50,Y,Class - went of chapter 5.1 and 5.2 from Calculus 1
-RP,1/8/2024,MATH-205-03,75,Y,Class - went over different types of data and graphs
-RP,1/8/2024,BUSA-103-01,30,N,Read Chapter 1 of text book for quiz on Tuesday
-RP,1/9/2024,BUSA-103-01,75,Y,Class - went over chapter 1 of the textbook and had a reading quiz over it
-RP,1/9/2024,DS-160-01,75,Y,Class - worked on data analysis in excel
-RP,1/9/2024,MATH-118-01,45,Y,Class - had a math lab that went over 5.1 and 5.2 in maple
-RP,1/9/2024,DS-160-01,15,N,Finished up the graphs for data analysis of Murder and Assault Rate
-RP,1/9/2024,ECON-111-02,33,N,Did MindTap assignments for Chapter 2 and 1
-RP,1/10/2024,ECON-111-02,50,Y,Class - Went over chapter 2 of the economics textbook
-RP,1/10/2024,MATH-118-01,50,Y,Class - Went over the fundamental theorem of calculus and went over practice problems
-RP,1/10/2024,MATH-205-03,75,Y,"Class - Went over box blots and mean, median, IQR, standard deviation"
-RP,1/10/2024,BUSA-103-01,45,N,Read Chapter 2 of the text book for quiz on Thursday
-RP,1/11/2024,BUSA-103-01,60,Y,Class - went over chapter 3 of the textbook and had a reading quiz over it
-RP,1/11/2024,DS-160-01,75,Y,Class - Worked on Exam score anyaliss with Clay
-RP,1/12/2024,ECON-111-02,50,Y,Class - Went over chapter 3 of economics textbook
-RP,1/12/2024,MATH-118-01,50,Y,Class - Went over 5.4 
-RP,1/12/2024,MATH-205-03,50,Y,Class - Went over normal distribution
-RP,1/12/2024,MATH-118-01,51,N,Did 5.1 practice problems and started 5.2 practice problems
-RP,1/15/2024,MATH-205-03,5,N,Responded to question moodle that was homework
-RP,1/15/2024,BUSA-103-01,40,N,Read chapter 4 of the textbook for quiz on Tuesday
-RP,1/16/2024,BUSA-103-01,75,Y,Class - Went over chapter 4 of the textbook and had a reading quiz on it
-RP,1/16/2024,DS-160-01,75,Y,Class - Went over numpy analysis and did some practice
-RP,1/16/2024,MATH-118-01,120,Y,"Class - Had a math quiz over section 5.1, 5.2, and 5.3 and then did a math lab in groups"
-RP,1/16/2024,ECON-111-02,10,N,Started on Chapter 3 Mind tap
-RP,1/17/2024,ECON-111-02,50,Y,Class - Went over supply and demand and chapter 3
-RP,1/17/2024,MATH-118-01,50,Y,Class - 5.5 substitution with Integrals
-RP,1/17/2024,MATH-205-03,75,Y,Class - Did more with normal distribution 
-RP,1/17/2024,MATH-205-03,180,N,Doing Homework assignment one for statistics
-RP,1/17/2024,BUSA-103-01,45,N,Read Chapter 5 of the textbook
-RP,1/18/2024,BUSA-103-01,75,Y,Class- went over chapter 5 of textbook and had reading quiz over it
-RP,1/18/2024,DS-160-01,75,Y,Class - Finished the group work of the heart disease anyalysis using Numpy. 
-RP,1/18/2024,MATH-205-03,55,N,Finished up the homework assignment 1
-RP,1/18/2024,ECON-111-02,20,N,Finished up Chapter 3 mindtap
-RP,1/19/2024,ECON-111-02,50,Y,Class - finished chapter 3 with consumer and producer surplus
-RP,1/19/2024,MATH-118-01,50,Y,Class - did more practice problems for 5.5
-RP,1/19/2024,MATH-205-03,50,Y,Class - started chapter 2 with learning about scatter plots
-RP,1/20/2024,MATH-118-01,102,N,Did practice problems for 5.4
-RP,1/22/2024,ECON-111-02,50,Y,Class - Started going over chapter 4 
-RP,1/22/2024,BUSA-103-01,25,N,Started reading chapter 2 of the business textbook
-RP,1/22/2024,MATH-205-03,75,Y,Class - Went over scatterplots and correlation
-RP,1/22/2024,BUSA-103-01,40,N,Finished reading chapter 2 of the business textbook
+Initial ,Date,course_id,time(m),Class,Summary,
+RP,1/8/2024,ECON-111-02,50,Y,Class - went over chapter 1 of economics textbook,
+RP,1/8/2024,MATH-118-01,50,Y,Class - went of chapter 5.1 and 5.2 from Calculus 1,
+RP,1/8/2024,MATH-205-03,75,Y,Class - went over different types of data and graphs,
+RP,1/8/2024,BUSA-103-01,30,N,Read Chapter 1 of text book for quiz on Tuesday,
+RP,1/9/2024,BUSA-103-01,75,Y,Class - went over chapter 1 of the textbook and had a reading quiz over it,
+RP,1/9/2024,DS-160-01,75,Y,Class - worked on data analysis in excel,
+RP,1/9/2024,MATH-118-01,45,Y,Class - had a math lab that went over 5.1 and 5.2 in maple,
+RP,1/9/2024,DS-160-01,15,N,Finished up the graphs for data analysis of Murder and Assault Rate,
+RP,1/9/2024,ECON-111-02,33,N,Did MindTap assignments for Chapter 2 and 1,
+RP,1/10/2024,ECON-111-02,50,Y,Class - Went over chapter 2 of the economics textbook,
+RP,1/10/2024,MATH-118-01,50,Y,Class - Went over the fundamental theorem of calculus and went over practice problems,
+RP,1/10/2024,MATH-205-03,75,Y,"Class - Went over box blots and mean, median, IQR, standard deviation",
+RP,1/10/2024,BUSA-103-01,45,N,Read Chapter 2 of the text book for quiz on Thursday,
+RP,1/11/2024,BUSA-103-01,60,Y,Class - went over chapter 3 of the textbook and had a reading quiz over it,
+RP,1/11/2024,DS-160-01,75,Y,Class - Worked on Exam score anyaliss with Clay,
+RP,1/12/2024,ECON-111-02,50,Y,Class - Went over chapter 3 of economics textbook,
+RP,1/12/2024,MATH-118-01,50,Y,Class - Went over 5.4 ,
+RP,1/12/2024,MATH-205-03,50,Y,Class - Went over normal distribution,
+RP,1/12/2024,MATH-118-01,51,N,Did 5.1 practice problems and started 5.2 practice problems,
+RP,1/15/2024,MATH-205-03,5,N,Responded to question moodle that was homework,
+RP,1/15/2024,BUSA-103-01,40,N,Read chapter 4 of the textbook for quiz on Tuesday,
+RP,1/16/2024,BUSA-103-01,75,Y,Class - Went over chapter 4 of the textbook and had a reading quiz on it,
+RP,1/16/2024,DS-160-01,75,Y,Class - Went over numpy analysis and did some practice,
+RP,1/16/2024,MATH-118-01,120,Y,"Class - Had a math quiz over section 5.1, 5.2, and 5.3 and then did a math lab in groups",
+RP,1/16/2024,ECON-111-02,10,N,Started on Chapter 3 Mind tap,
+RP,1/17/2024,ECON-111-02,50,Y,Class - Went over supply and demand and chapter 3,
+RP,1/17/2024,MATH-118-01,50,Y,Class - 5.5 substitution with Integrals,
+RP,1/17/2024,MATH-205-03,75,Y,Class - Did more with normal distribution ,
+RP,1/17/2024,MATH-205-03,180,N,Doing Homework assignment one for statistics,
+RP,1/17/2024,BUSA-103-01,45,N,Read Chapter 5 of the textbook,
+RP,1/18/2024,BUSA-103-01,75,Y,Class- went over chapter 5 of textbook and had reading quiz over it,
+RP,1/18/2024,DS-160-01,75,Y,Class - Finished the group work of the heart disease anyalysis using Numpy. ,
+RP,1/18/2024,MATH-205-03,55,N,Finished up the homework assignment 1,
+RP,1/18/2024,ECON-111-02,20,N,Finished up Chapter 3 mindtap,
+RP,1/19/2024,ECON-111-02,50,Y,Class - finished chapter 3 with consumer and producer surplus,
+RP,1/19/2024,MATH-118-01,50,Y,Class - did more practice problems for 5.5,
+RP,1/19/2024,MATH-205-03,50,Y,Class - started chapter 2 with learning about scatter plots,
+RP,1/20/2024,MATH-118-01,102,N,Did practice problems for 5.4,
+RP,1/22/2024,ECON-111-02,50,Y,Class - Started going over chapter 4 ,
+RP,1/22/2024,BUSA-103-01,25,N,Started reading chapter 2 of the business textbook,
+RP,1/22/2024,MATH-205-03,75,Y,Class - Went over scatterplots and correlation,
+RP,1/22/2024,BUSA-103-01,40,N,Finished reading chapter 2 of the business textbook,
+RP,1/22/2024,MATH-118-01,35,N,Worked on practice problems for 5.5,
+RP,1/23/2024,BUSA-103-01,75,Y,Class - Had a reading quiz on chapter 2 and then reviewed chapter 2,
+RP,1/23/2034,DS-160-01,75,Y,Class - started working with pandas in class,
+RP,1/23/2024,MATH-118-01,25,N,Finished practice problems for 5.5,
+RP,1/24/2024,ECON-111-02,50,Y,Class - Continued going over chapter 4,
+RP,1/24/2024,MATH-118-01,50,Y,Class - Did section 6.1 area between the curves,
+RP,1/24/2024,MATH-205-03,75,Y,Class - Worked on predicting with the regression line,
+RP,1/25/2024,BUSA-103-01,75,Y,Class - Disscussed biases,
+RP,1/25/2024,DS-160-01,75,Y,Class - Continued working with pandas,
+RP,1/25/2024,DS-160-01,30,N,Worked on group project outside class,
+RP,1/26/2024,ECON-111-02,50,Y,Class - Finished Chapter 4,
+RP,1/26/2024,MATH-118-01,50,Y,Class - did section 6.2 with volumes,
+RP,1/26/2024,MATH-205-03,50,Y,Class - started data analysis with two way tables,
+RP,1/27/2024,MATH-118-01,150,N,Did practice problems for 6.1,
+RP,1/27/2024,BUSA-103-01,21,N,Started studying for test on Tuesday. ,
+RP,1/28/2024,MATH-205-03,105,N,Worked on assignment 2,
+RP,1/28/2024,BUSA-103-01,150,N,Studying for test on Tuesday,
+RP,1/29/2024,ECON-111-02,50,Y,Class - went over chapter 5,
+RP,1/29/2024,MATH-118-01,50,Y,Class- went over volumes over y-axis,
+RP,1/29/2024,MATH-205-03,75,Y,Class- Went over section 2.6,
+RP,1/29/2024,MATH-205-03,150,N,Worked on assignment 2 with the group, 
